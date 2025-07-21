@@ -1,4 +1,4 @@
-name: gcs_python_test
+name: gcs_python_hiscors
 channels:
   - conda-forge
   - defaults
